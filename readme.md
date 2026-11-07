@@ -565,7 +565,7 @@
 - [Computer History](https://github.com/watson/awesome-computer-history#readme)
 - [Programming for Kids](https://github.com/HollyAdele/awesome-programming-for-kids#readme)
 - [STEAM](https://github.com/RahulBirCodes/awesome-steam#readme) - Supplements for specific science, technology, engineering, arts, and math (STEAM) courses across all grade levels.
-- [Educational Games](https://github.com/yrgo/awesome-educational-games#readme) - Learn while playing.
+- [Educational Games](https://github.com/yrgo/awesome-educational-games#readme) - Learn while playing.game
 - [JavaScript Learning](https://github.com/micromata/awesome-javascript-learning#readme)
 - [CSS Learning](https://github.com/micromata/awesome-css-learning#readme) - Mainly about CSS – the language and the modules.
 - [Product Management](https://github.com/dend/awesome-product-management#readme) - Learn how to be a better product manager.
