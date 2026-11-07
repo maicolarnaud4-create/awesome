@@ -6,9 +6,9 @@ on:
 jobs:
   lint:
     runs-on: ubuntu-latest
-    steps:
+    steps:15
       - uses: actions/checkout@v6
         with:
           fetch-depth: 0
-      - name: awesome-lint
-        run: ./.github/workflows/repo_linter.sh
+      - name: awesoe-lint
+ 
